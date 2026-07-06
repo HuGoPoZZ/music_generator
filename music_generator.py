@@ -8,7 +8,7 @@ notes = []
 dico_stats = {}
 dico = {}
 proba = 0
-chemin_fichier = Path("/Users/hugopozzobon/Documents/python/music_generator/mariachi.mid")
+chemin_fichier = Path("Your path to you midi file")
 
 s = converter.parse(chemin_fichier)
 #s.show('text')
