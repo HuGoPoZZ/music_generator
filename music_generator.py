@@ -8,7 +8,7 @@ notes = []
 dico_stats = {}
 dico = {}
 proba = 0
-chemin_fichier = Path("Your path to you midi file")
+chemin_fichier = Path("Aminor.mid")
 
 s = converter.parse(chemin_fichier)
 #s.show('text')
